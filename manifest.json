@@ -1,0 +1,10 @@
+{
+    "name" : "Leads Saver 1.2",
+    "description": "A quick way to save links and page URL's with a single click",
+    "version" : "1.2",
+    "manifest_version" : 3,
+    "action": {
+        "default_popup" : "index.html",
+        "default_icon": "linksaver.png"
+    }
+}
